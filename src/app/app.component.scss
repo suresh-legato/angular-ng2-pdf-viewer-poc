@@ -1,0 +1,22 @@
+marketplace-input ::ng-deep .medium-container .input-wrapper {
+  height: auto;
+}
+
+p {
+  font-family: Lato;
+}
+
+.pdf-container {
+  display: flex;
+  border: solid 1px blue;
+}
+
+.viewer {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+}
+
+pdf-viewer {
+  height: 100vh;
+}

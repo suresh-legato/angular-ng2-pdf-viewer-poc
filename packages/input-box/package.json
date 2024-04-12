@@ -1,0 +1,16 @@
+{
+  "name": "marketplace-input-box",
+  "version": "0.0.1",
+  "peerDependencies": {},
+  "dependencies": {
+    "tslib": "^2.2.0"
+  },
+  "main": "bundles/marketplace-input-box.umd.js",
+  "module": "fesm2015/marketplace-input-box.js",
+  "es2015": "fesm2015/marketplace-input-box.js",
+  "esm2015": "esm2015/marketplace-input-box.js",
+  "fesm2015": "fesm2015/marketplace-input-box.js",
+  "typings": "marketplace-input-box.d.ts",
+  "metadata": "marketplace-input-box.metadata.json",
+  "sideEffects": false
+}
